@@ -133,7 +133,7 @@ const WhatWeOfferSection = () => {
                             }}
                         >
                             <img
-                                src="../../../Images/offere.jpg"
+                                src="../../../public/Images/offere.jpg"
                                 alt="What we offer"
                                 style={{
                                     width: "100%",

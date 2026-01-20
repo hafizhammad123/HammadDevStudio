@@ -109,7 +109,7 @@ const ParentsTrustSection = () => {
               }}
             >
               <img
-                src="../../../Images/parents turst.jpg"
+                src="../../../public/Images/parents turst.jpg"
                 alt="Parents trust and guidance"
                 style={{ width: "100%", display: "block" }}
               />

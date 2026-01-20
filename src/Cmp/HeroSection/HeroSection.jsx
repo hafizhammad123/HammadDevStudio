@@ -131,7 +131,7 @@ const HeroSection = () => {
             >
               <Paper elevation={8} sx={{ borderRadius: "20px", overflow: "hidden" }}>
                 <img
-                  src="../../../Images/student hero.jpg"
+                  src="../../../public/Images/student hero.jpg"
                   alt="Student coding on laptop"
                   style={{ width: "100%", display: "block" }}
                 />

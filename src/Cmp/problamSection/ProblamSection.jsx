@@ -56,7 +56,7 @@ const ProblemSection = () => {
                 }}
               >
                 <img
-                  src="../../../Images/problame.jpg"
+                  src="../../../public/Images/problame.jpg"
                   alt="Student Problem"
                   style={{ width: "100%", display: "block" }}
                 />

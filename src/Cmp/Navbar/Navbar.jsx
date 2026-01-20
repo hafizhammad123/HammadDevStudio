@@ -43,7 +43,7 @@ function Navbar() {
           {/* ✅ LOGO */}
           <Box sx={{ display: 'flex', alignItems: 'center', mr: 2 }}>
             <Box component={'img'}
-              src="../../../Images/final-01.png"
+              src="../../../public/Images/final-01.png"
               alt="logo"
               sx={{
                 width: {
