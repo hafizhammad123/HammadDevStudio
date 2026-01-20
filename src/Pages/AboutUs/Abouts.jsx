@@ -58,7 +58,7 @@ const AboutPage = () => {
                             />
                             <Box sx={{ position: "relative", borderRadius: 3, overflow: "hidden" }}>
                                 <img
-                                    src="../../../public/Images/Untitled-4-01.jpg"
+                                    src="../../../Images/Untitled-4-01.jpg"
                                     alt="Experience"
                                     style={{ width: "100%", display: "block" }}
                                 />
@@ -106,7 +106,7 @@ const AboutPage = () => {
                             />
                             <Box sx={{ position: "relative", borderRadius: 3, overflow: "hidden" }}>
                                 <img
-                                    src="../../../public/Images/hamammmm.jpg"
+                                    src="../../../Images/hamammmm.jpg"
                                     alt="Teaching"
                                     style={{ width: "100%", display: "block" }}
                                 />

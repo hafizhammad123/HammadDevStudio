@@ -131,7 +131,7 @@ const AboutSection = () => {
               }}
             >
               <img
-                src="../../../public/Images/Untitled-4-01.jpg"
+                src="../../../Images/Untitled-4-01.jpg"
                 alt="Hafiz Hammad"
                 style={{ width: "100%", display: "block" }}
               />
